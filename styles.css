@@ -1,0 +1,90 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    margin: 0 0%;
+}
+
+.container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.baby-blue {
+    background-color: #89CFF0;
+}
+
+.platinum {
+    background-color: #E5E4E2;
+}
+
+.pistachio {
+    background-color: #93C572;
+}
+
+.rose-gold {
+    background-color: #E0BFB8;
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.merriweather {
+    font-family: 'Merriweather', sans-serif;
+}
+
+.montserrat {
+    font-family: 'Montserrat', monospace;
+}
+
+.lobster-two {
+    font-family: 'Lobster Two', sans-serif;
+}
+
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 36px;
+    font-family: 'Lobster Two', sans-serif;
+}
+
+.text-panel h2 {
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'Merriweather', sans-serif;
+}
+
+.text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
